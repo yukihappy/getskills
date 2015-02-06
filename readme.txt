@@ -1,4 +1,4 @@
 readme
 testone
 Creating a new branch is quick & simpl
-create a conflict-two
+git is a free software
